@@ -9,3 +9,7 @@ I added six rows to see what each header text displayed like
 ``` javascript
 var myVar = "Hello, world!";
 ```
+###### Add checklist
+- [ ] not done
+- [x] done
+- [ ] not done
